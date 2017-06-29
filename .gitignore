@@ -136,6 +136,8 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+sh.exe.stackdump
+
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
