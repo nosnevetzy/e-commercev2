@@ -41,7 +41,6 @@ app/config/config.php
 
 modules/*
 override/*
-/themes/ogalala-theme
 
 # Vendors and dependencies
 
